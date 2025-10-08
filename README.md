@@ -54,4 +54,12 @@
   </a>
 </p>
 ---
+### 📁 Índice dos meus repositórios
+
+| Projeto                      | Descrição breve                         | Link                                      |
+|-----------------------------|---------------------------------------|-------------------------------------------|
+| [Nome-do-projeto-1](https://github.com/bruno-190/nome-do-projeto-1) | Pequena descrição do que o projeto faz  | [GitHub](https://github.com/bruno-190/nome-do-projeto-1) |
+| [Nome-do-projeto-2](https://github.com/bruno-190/nome-do-projeto-2) | Pequena descrição do que o projeto faz  | [GitHub](https://github.com/bruno-190/nome-do-projeto-2) |
+
+---
 ⭐️ Obrigado por visitar meu perfil!
