@@ -14,7 +14,7 @@
 ### 🎓 Sobre mim
 
 - 👨‍🎓 Atualmente cursando Ciência da Computação na Estácio (4º semestre)
-- 🌱 Apaixonado por aprender novas tecnologias e desenvolvimento de software
+- 🌱 Aprendendo sobre novas tecnologias e desenvolvimento de software
 - 💬 Pergunte-me sobre programação, lógica de programação e fundamentos da computação
 - ⚡ Curiosidade: Sempre em busca de novos desafios e conhecimento para crescer na área de tecnologia
 
@@ -39,6 +39,19 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark" />
 </p>
 
---
+---
+### 🌐 Contato e Redes Sociais
 
+<p>
+  <a href="mailto:brunovieira.map@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/bruno_m_190" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/bruno-190" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+---
 ⭐️ Obrigado por visitar meu perfil!
