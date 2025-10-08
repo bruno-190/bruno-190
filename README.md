@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Bruno magalhães] 👋</h1>
+<h1 align="center">Olá! Eu sou Bruno magalhães 👋</h1>
 
 <p align="center">
   <a href="https://github.com/bruno-190">
